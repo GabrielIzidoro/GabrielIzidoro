@@ -2,9 +2,8 @@
 
 Meu nome é Gabriel
 
-- Tenho curso no Alura de : JavaScript
-- Fiz curso de html e css
-- Estou cursando Java.
+
+- Estou cursando Formação SAP.
 
 ### Para entar em contato comigo é só me chamar :
 
