@@ -3,7 +3,7 @@
 Meu nome é Gabriel
 
 
-- Estou cursando Formação SAP.
+- Estou me Desenvolvendo nas Áreas: SAP MM | SAP PM | Fundamentos IA | Analise de Dados | Power Bi | Linguagem Python
 
 ### Para entar em contato comigo é só me chamar :
 
