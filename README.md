@@ -1,6 +1,6 @@
 ### Bem Vindo Ao Meu Perfil :👍
 
-Meu nome é Gabriel
+Meu nome é Gabriel Izidoro
 
 
 - Estou me Desenvolvendo nas Áreas: SAP MM | SAP PM | Fundamentos IA | Analise de Dados | Power Bi | Linguagem Python
