@@ -1,13 +1,52 @@
-### Bem Vindo Ao Meu Perfil :👍
+# 👨🏻‍💻 Gabriel Izidoro
 
-Meu nome é Gabriel Izidoro
+**`Programador Júnior`**
+
+Estou sempre em busca de evolução no mundo da programação. Apesar de ter bastante interesse na área de dados, meu foco hoje é me preparar para atuar como desenvolvedor.
+No momento, estou estudando Python, Banco de Dados e Power BI, ferramentas que considero essenciais para crescer tanto no desenvolvimento quanto no universo de dados. Meu objetivo é aprender cada vez mais e aplicar esse conhecimento na prática.
+
+### 🤖 Linguagens de Programação
 
 
-- Estou me Desenvolvendo nas Áreas: SAP MM | SAP PM | Fundamentos IA | Analise de Dados | Power Bi | Linguagem Python
+ <img 
+  align="left" 
+    alt="Phyton"
+    title="Phyton" 
+    width="30px" 
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+          
 
-### Para entar em contato comigo é só me chamar :
+ <img
+ align="left" 
+    alt="Phyton"
+    title="Phyton" 
+    width="30px" 
+    style="padding-right: 10px;"
+     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark.svg" />
 
-- gabrieliziyy@gmail.com
 
-![](https://github.com/GabrielIzidoro/GabrielIzidoro/assets/170363831/07e990f6-6c0b-4a6c-bdb4-f7c1aa6a5fd7)
+ <img 
+  align="left" 
+    alt="Phyton"
+    title="Phyton" 
+    width="30px" 
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+
+
+<br/>
+<br/>
+
+## 📊 Estatísticas
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielIzidoro&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br)
+
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielIzidoro&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+
 
