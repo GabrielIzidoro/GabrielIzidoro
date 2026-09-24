@@ -1,14 +1,9 @@
 # 👨🏻‍💻 Gabriel Izidoro
 
-### Analista DevOps Júnior | Infraestrutura | Microsoft Azure
+Gosto de trabalhar com tecnologia, especialmente nas áreas de DevOps, infraestrutura e automação.
 
-Sou Gabriel Izidoro, profissional de TI e estudante de Análise e Desenvolvimento de Sistemas na Universidade Paulista (UNIP).
+Tenho interesse em Microsoft Azure, máquinas virtuais, SQL, monitoramento de serviços, suporte técnico, Git e desenvolvimento com C#. Também estou sempre buscando aprimorar meus conhecimentos e aplicar essas ferramentas na prática.
 
-Atualmente, atuo como Analista DevOps Júnior na Comtele, apoiando a administração, o monitoramento e a evolução da infraestrutura. No dia a dia, trabalho com Microsoft Azure, máquinas virtuais, SQL, suporte técnico, monitoramento de serviços e automação de processos.
-
-Também colaboro com equipes de desenvolvimento utilizando Git e Kanban para organizar o fluxo de trabalho e contribuir para a entrega contínua de soluções.
-
-Minha experiência anterior em suporte de TI fortaleceu minhas habilidades em investigação de incidentes, administração de sistemas, resolução de problemas e atendimento a usuários. Atualmente, meu foco está em DevOps, infraestrutura em nuvem, automação e melhoria contínua dos ambientes de TI.
 
 ## 🛠️ Tecnologias e ferramentas
 
