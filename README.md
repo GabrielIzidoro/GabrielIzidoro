@@ -27,6 +27,11 @@ If you share these interests or would like to exchange experiences, feel free to
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS" title="Css"/></code>
 
 
+**Business Intelligence**
+
+<code><img height="32" src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="Power BI" title="Power BI"/></code>
+
+
 **Code Editors**
 
 <code><img height="32" src="https://iconape.com/wp-content/png_logo_vector/datagrip-icon.png" alt="DataGrip" title="DataGrip"/></code>
